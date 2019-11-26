@@ -3,7 +3,7 @@ title = "The Near-field Jet Behavior of 60° Dense Jets Discharged Into A Perpen
 date = 2011-11-01T00:00:00
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
-authors = ["Chris CK Lai", "Joseph HW Lee"]
+authors = ["admin", "Joseph HW Lee"]
 
 # Publication type.
 # Legend:

@@ -3,7 +3,7 @@ title = "Digital Simulation of Dominant Eddies of A Co-Flowing Jet"
 date = 2009-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "David Jones"].
-authors = ["Chris CK Lai", "Joseph HW Lee", "KM Lam"]
+authors = ["admin", "Joseph HW Lee", "KM Lam"]
 
 # Publication type.
 # Legend:
