@@ -11,8 +11,9 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-    name: Prospective members
-    weight: 1
+	join_us:
+    	name: Prospective members
+    	weight: 1
 ---
 
 `I am hiring Ph.D. students that have experiences in `
