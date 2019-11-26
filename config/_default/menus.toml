@@ -11,22 +11,22 @@
 [[main]]
   name = "People"
   url = "#people"
-  weight = 20
+  weight = 15
 
 [[main]]
   name = "Research"
   url = "#projects"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "Publications"
   url = "#featured"
-  weight = 40
+  weight = 30
 
 [[main]]
   name = "Teaching"
   url = "#accomplishments"
-  weight = 45
+  weight = 40
 
 [[main]]
   name = "Lab News"
