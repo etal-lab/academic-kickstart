@@ -18,7 +18,7 @@ height = "480px"
 [[item]]
   title = ""
   content = ""
-  align = "center"  # Choose `center`, `left`, or `right`.
+  align = "left"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -31,8 +31,8 @@ height = "480px"
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Read more"
   cta_url = "https://ce.gatech.edu/news/new-faculty-lai-s-work-turbulent-flows-helps-us-better-understand-coastal-marshes-city"
-  # cta_icon_pack = "far"
-  # cta_icon = "newspaper"
+  # cta_icon_pack = "fas"
+  # cta_icon = "graduation-cap"
 
 [[item]]
   title = "Left"
