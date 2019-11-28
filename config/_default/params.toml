@@ -85,10 +85,14 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = ""
+email = "chrislck@gatech.edu"
 phone = ""
 
 # Address
+
+# Directions for visitors to locate you.
+directions = "Chris Lai's office is Mason 2223"
+
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 address = {street = "790 Atlantic Dr", city = "Atlanta", region = "GA", postcode = "30332", country = "United States", country_code = "US"}
 
@@ -96,8 +100,7 @@ address = {street = "790 Atlantic Dr", city = "Atlanta", region = "GA", postcode
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "33.776837", longitude = "-84.398864"}
 
-# Directions for visitors to locate you.
-directions = "Enter Mason Building and take the stairs to Office xxx on Floor 2 (Dr. Chris Lai)"
+
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
