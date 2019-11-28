@@ -31,8 +31,8 @@ height = "480px"
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Read more"
   cta_url = "https://ce.gatech.edu/news/new-faculty-lai-s-work-turbulent-flows-helps-us-better-understand-coastal-marshes-city"
-  # cta_icon_pack = "fas"
-  # cta_icon = "graduation-cap"
+  cta_icon_pack = "far"
+  cta_icon = "newspaper"
 
 [[item]]
   title = "Left"
