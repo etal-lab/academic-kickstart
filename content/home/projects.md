@@ -25,9 +25,9 @@ subtitle = ""
      name = "All"
      tag = "*"
   
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+   [[content.filter_button]]
+     name = "Turbulent mixing"
+     tag = "Turbulent mixing"
   
   # [[content.filter_button]]
   #   name = "Other"
