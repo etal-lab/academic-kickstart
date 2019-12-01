@@ -1,9 +1,9 @@
 ---
-title: Production of turbulence in an array of spheres with relative motions-- air-water flows
-summary: summary.
+title: Multibody turbulent flow
+summary: Production of turbulence in an array of spheres with relative motions-- air-water flows.
 tags:
-- Turbulent mixing
-- tag
+- Multiphase flow
+- Vegetated flow
 date: "2019-11-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -30,5 +30,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+**Production of turbulence in an array of spheres with relative motions: air-water flows**
 
 Environmental flows involving air or water interacting with heterogeneous objects such as particles, droplets or buildings are of great concern to the civil engineering discipline because of the modifications brought by the objects to the flow field, and hence, to the turbulent dispersion of solute and heat. The goal is to use high-resolution, volumetric velocity and scalar concentration field data to inform turbulence modeling of such flows. A refractive-index matched (RIM) tilting water flume will be constructed to carry out the experimental investigation. 
