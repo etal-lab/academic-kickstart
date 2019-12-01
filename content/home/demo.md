@@ -56,10 +56,3 @@ The Et al. lab focuses on understanding the role of fluid mechanics in environme
 
 Et al. stands for **E**nvironmental **t**urbulence **a**nalysis **l**ittera, which means the study of the effects of turbulence on environmental flows with careful and detailed experimentations and analysis to advance our design capabilities in engineering. The abbreviation [*et al.*](https://www.merriam-webster.com/dictionary/et%20al.) means others and is often used to cite collaborative work in scientific journals. The adoption of this name reflects our philosophy that science is a collaborative endeavor and benefits from different perspectives, viewing angles and inclusion. 
 
-# {{% alert note %}}
-# This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-# Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
-
-# **To remove this section, delete `content/home/demo.md`.**
-# {{% /alert %}}
