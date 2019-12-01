@@ -18,7 +18,7 @@ organizations:
   url: "https://www.ce.gatech.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include .
+bio: My research interests include experimental fluid mechanics, turbulent mixing and transport, and theory and modeling of turbulence.
 
 interests:
 - Experimental Fluid Mechanics
@@ -51,6 +51,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=Hz3tsIAAAAAJ&hl=en&oi=ao
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Chris_Ck_Lai
 # - icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -69,6 +72,7 @@ user_groups: ["Principal Investigator"]
 
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Chris Chung-Kei Lai is an assistant professor in the School of Civil and Environmental Engineering at Georgia Institute of Technology. He is also a guest scientist of the Extreme Fluids Team, physics division P-23, at Los Alamos National Laboratory, USA. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His expertise is on the design and control of the transport/exchange of contaminants and nutrients in water/air bodies and across the interface between the two. This transport/exchange is heavily governed by the turbulence presence inside the fluid. His group uses and develops **experimental methods** to study the dynamic interplay between turbulent flows and their surroundings and **continuum mechanics** for the development of predictive models of turbulence. 
+
