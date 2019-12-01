@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-**Welcome to the *E*nvironmental *t*urbulence *a*nalysis *l*ittera Lab!**
+**Welcome to the Environmental turbulence analysis littera Lab!**
 
 The Et al. lab focuses on understanding the role of fluid mechanics in environmental processes. We are particularly interested in turbulent transport between buildings, forest, costal vegetation, and particle/droplet laden flows. We employ and further develop experimental techniques to study turbulent flows in these complex geometries. 
 
