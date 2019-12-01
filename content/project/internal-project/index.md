@@ -1,6 +1,6 @@
 ---
-title: Production of turbulence in an array of spheres with relative motions: air-water flows
-summary: An example of using the in-built project page.
+title: Production of turbulence in an array of spheres with relative motions- air-water flows
+summary: 
 tags:
 - Turbulent mixing
 date: "2019-11-30T00:00:00Z"
@@ -13,10 +13,10 @@ image:
   focal_point: Smart
 
 links:
- - icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+# - icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""
