@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
-title = "**E**nvironmental **t**urbulence **a**nalysis **l**ittera Lab"
+title = ""
 subtitle = ""
 
 [design]
@@ -49,6 +49,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+Welcome to the **E**nvironmental **t**urbulence **a**nalysis **l**ittera Lab
 
 The Et al. lab focuses on understanding the role of fluid mechanics in environmental processes. We are particularly interested in turbulent transport between buildings, forest, costal vegetation, and particle/droplet laden flows. We employ and further develop experimental techniques to study turbulent flows in these complex geometries. 
 
