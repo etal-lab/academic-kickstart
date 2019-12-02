@@ -27,7 +27,7 @@ subtitle = ""
   
    [[content.filter_button]]
      name = "Multiphase flow"
-     tag = "multiphase flow"
+     tag = "Multiphase flow"
   
   # [[content.filter_button]]
   #   name = "Other"
