@@ -15,21 +15,21 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "books"
-  icon_pack = "fad"
+  icon = "wind"
+  icon_pack = "fas"
   name = "Physics of Turbulence"
   description = ""
   
 [[feature]]
   icon = "ship"
-  icon_pack = "fad"
-  name = "Experimental fluid mechanics"
+  icon_pack = "fas"
+  name = "Experimental Fluid Mechanics"
   description = ""  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "recycle"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Environmental Fluid Systems"
+  description = ""
 
 +++
