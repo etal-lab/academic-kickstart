@@ -27,7 +27,7 @@ subtitle = ""
   description = ""  
   
 [[feature]]
-  icon = "recycle"
+  icon = "seeding"
   icon_pack = "fas"
   name = "Environmental Fluid Systems"
   description = ""
