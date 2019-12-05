@@ -16,8 +16,6 @@ menu:
     weight: 1
 ---
 
-`I am hiring Ph.D. students that have experiences in `
-
 Thank you for your interests in our research group. We always welcome potential new members with passion in **environmental/experimental fluid mechanics**. It is recommended that prospective students have a background in engineering (civil, mechanical, aerospace) but students from the science disciplines are also encouraged to contact me for research opportunities.
 
 ## Ph.D. students
