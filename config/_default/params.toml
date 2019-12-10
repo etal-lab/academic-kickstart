@@ -91,10 +91,10 @@ phone = ""
 # Address
 
 # Directions for visitors to locate you.
-directions = "Chris Lai's office is Mason 2223"
+directions = "Chris Lai's office is at Mason 2223"
 
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "790 Atlantic Dr", city = "Atlanta", region = "GA", postcode = "30332", country = "United States", country_code = "US"}
+address = {street = "Mason Building, 790 Atlantic Dr", city = "Atlanta", region = "GA", postcode = "30332", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
