@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "*Journal of Hydro-environment Research, 6(1)*: 9-28"
 publication_short: ""
 
-abstract: This paper reports results of a comprehensive experimental investigation of inclined round dense jets in an otherwise stagnant fluid. The tracer concentration field is measured for six jet discharge angles $\theta_{0} = (15^o, 30^o, 38^o, 45^o, 52^o, & 60^o)$
+abstract: This paper reports results of a comprehensive experimental investigation of inclined round dense jets in an otherwise stagnant fluid. The tracer concentration field is measured for six jet discharge angles $\theta_{0} = (15^o, 30^o, 38^o, 45^o, 52^o, \& 60^o)$ and jet densimetric Froude number of F$_{r}$ = 10 – 40 using the planar laser-induced fluorescence (LIF) technique; selected jet velocity measurements are made using Particle Image Velocimetry (PIV). The detailed jet mixing characteristics and turbulence properties are presented. The direct velocity measurement reveals that the mixing is jet-like until the maximum rise. Empirical correlations for the maximum jet rise height, jet dilution at maximum rise, and impact dilution are presented. Both the time-mean concentration and intermittency show that the upper jet edge spreading is similar to a positively buoyant jet; at the lower edge the buoyant instability induces significant detrainment and mass outflux for $\theta_{0} > 15^o$. 
 
 
 
