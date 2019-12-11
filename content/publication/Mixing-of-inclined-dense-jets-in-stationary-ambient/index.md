@@ -19,7 +19,7 @@ publication_types: ["2"]
 publication: "*Journal of Hydro-environment Research, 6(1)*: 9-28"
 publication_short: ""
 
-abstract: This paper reports results of a comprehensive experimental investigation of inclined round dense jets in an otherwise stagnant fluid. The tracer concentration field is measured for six jet discharge angles $\theta_{0}$ = $(15^o)$
+abstract: This paper reports results of a comprehensive experimental investigation of inclined round dense jets in an otherwise stagnant fluid. The tracer concentration field is measured for six jet discharge angles $\theta_{0}$ = $(15^o, 30^o, 38^o, 45^o, 52^o, \&  60^o)$
 
 
 # Summary. An optional shortened abstract.
