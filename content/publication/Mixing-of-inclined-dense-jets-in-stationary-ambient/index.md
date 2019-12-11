@@ -19,9 +19,7 @@ publication_types: ["2"]
 publication: "*Journal of Hydro-environment Research, 6(1)*: 9-28"
 publication_short: ""
 
-abstract: This paper reports results of a comprehensive experimental investigation of inclined round dense jets in an otherwise stagnant fluid. The tracer concentration field is measured for six jet discharge angles: $\theta_{0}$ = () and jet densimetric Froude number of Fr = 10 – 40 using the planar laser-induced fluorescence (LIF) technique; selected jet velocity measurements are made using Particle Image Velocimetry (PIV). 
-
-
+abstract: 
 
 
 
