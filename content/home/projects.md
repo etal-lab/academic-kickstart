@@ -29,9 +29,13 @@ subtitle = ""
      name = "Multiphase flow"
      tag = "Multiphase flow"
   
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+   [[content.filter_button]]
+     name = "Hyporheic mixing"
+     tag = "Hyporheic mixing"
+
+   [[content.filter_button]]
+     name = "Vegetated flow"
+     tag = "Vegetated flow"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

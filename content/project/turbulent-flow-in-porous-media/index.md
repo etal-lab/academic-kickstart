@@ -3,7 +3,6 @@ title: Turbulent flow in porous media
 summary: Turbulent-laminar flow transitions in porous media-- solute transport in river and groundwater.
 tags:
 - Hyporheic mixing
-- Vegetated flow
 date: "2019-11-30T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
