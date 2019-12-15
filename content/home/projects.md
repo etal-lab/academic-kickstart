@@ -37,6 +37,14 @@ subtitle = ""
      name = "Vegetated flow"
      tag = "Vegetated flow"
 
+   [[content.filter_button]]
+     name = "Mixing efficiency"
+     tag = "Mixing efficiency"
+
+   [[content.filter_button]]
+     name = "Density Stratification"
+     tag = "Density Stratification"
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
