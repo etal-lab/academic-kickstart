@@ -34,10 +34,6 @@ subtitle = ""
      tag = "Hyporheic mixing"
 
    [[content.filter_button]]
-     name = "Vegetated flow"
-     tag = "Vegetated flow"
-
-   [[content.filter_button]]
      name = "Mixing efficiency"
      tag = "Mixing efficiency"
 
