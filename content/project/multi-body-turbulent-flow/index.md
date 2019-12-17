@@ -10,7 +10,7 @@ date: "2019-11-30T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 
 links:
@@ -36,5 +36,5 @@ markup: mmark
 
 Environmental flows involving air or water interacting with heterogeneous objects such as particles, droplets or buildings are of great concern to the civil engineering discipline because of the modifications brought by the objects to the flow field, and hence, to the turbulent dispersion of solute and heat. **_The goal_** is to use high-resolution, volumetric velocity and scalar concentration field data to inform turbulence modeling of such flows. A refractive-index matched (RIM) tilting water flume will be constructed to carry out the experimental investigation. 
 
-$\\downarrow$ Liquid turbulence in bubbly turbulent flows
 {{< video src="bubbly-turbulent-flows.mp4" controls="yes" >}}
+$\\bigtriangleup $ Liquid turbulence in bubbly turbulent flows
