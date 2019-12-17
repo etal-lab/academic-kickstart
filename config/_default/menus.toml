@@ -5,7 +5,7 @@
 
 [[main]]
   name = "Welcome"
-  url = "#demo"
+  url = "#welcome"
   weight = 10
 
 [[main]]
@@ -25,12 +25,12 @@
 
 [[main]]
   name = "Teaching"
-  url = "#accomplishments"
+  url = "#teaching"
   weight = 40
 
 [[main]]
   name = "Lab News"
-  url = "#posts"
+  url = "#news"
   weight = 50
 
 [[main]]
