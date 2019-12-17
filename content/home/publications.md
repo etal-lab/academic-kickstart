@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = "[All publications]({{< ref "/publication/_index.md" >}})"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -66,3 +66,4 @@ subtitle = "[All publications]({{< ref "/publication/_index.md" >}})"
  css_class = ""
 +++
 
+[View all publications]({{< ref "/publication/_index.md" >}})
