@@ -18,7 +18,7 @@ subtitle = ""
   icon = "wind"
   icon_pack = "fas"
   name = "Physics of Turbulence"
-  description = ""
+  description = "_Turbulence is the most important unsolved problem of classical physics_ - Richard Feynman"
   
 [[feature]]
   icon = "ship"
