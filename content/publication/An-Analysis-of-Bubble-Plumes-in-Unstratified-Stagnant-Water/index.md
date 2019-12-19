@@ -3,7 +3,7 @@ title: "An Analysis of Bubble Plumes in Unstratified Stagnant Water"
 authors:
 - admin
 date: "2015-Dec-14T00:00:00Z"
-doi: ""
+doi: "http://hdl.handle.net/1969.1/156454"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2015-12-14T00:00:00Z"
@@ -33,9 +33,9 @@ tags:
 
 featured: false
 
- links:
- - name: "Available electronically"
-   url: "http://hdl.handle.net/1969.1/156454"
+# links:
+# - name: ""
+#   url: ""
 url_pdf: ''
 url_code: ''
 url_dataset: ''
