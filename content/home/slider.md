@@ -44,11 +44,11 @@ height = "480px"
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
+  title = ""
+  content = ""
   align = "right"
 
   overlay_color = "#335161"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_img = "bubbly-flow.gif"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 +++
