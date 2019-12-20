@@ -36,7 +36,7 @@ height = "480px"
 
 [[item]]
   title = ""
-  content = "Pseudo-volumetric reconstruction of a variable-density turbulent jet using time-resolved stereo-PIV and planar LIF data"
+  content = ""
   align = "right"
 
   overlay_color = "#335161"  # An HTML color value.
