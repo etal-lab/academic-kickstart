@@ -35,13 +35,13 @@ height = "480px"
   cta_icon = "newspaper"
 
 [[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
-  align = "left"
+  title = ""
+  content = "Pseudo-volumetric reconstruction of a variable-density turbulent jet using time-resolved stereo-PIV and planar LIF data"
+  align = "right"
 
   overlay_color = "#335161"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_img = "Pseudo-volumetric-reconstruction-of-a-variable-density-turbulent-jet.png"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Right"
