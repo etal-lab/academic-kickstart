@@ -18,7 +18,7 @@ publishDate: "2015-11-10T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Ocean Modelling, 97*": 27 - 36
+publication: "*Ocean Modelling, 97*: 27 - 36"
 publication_short: ""
 
 abstract: An approach for Eulerian–Lagrangian large-eddy simulation of bubble plume dynamics is presented and its performance evaluated. The main numerical novelties consist in defining the gas-liquid coupling based on the bubble size to mesh resolution ratio ($D\_{p}/\\Delta x$) and the interpolation between Eulerian and Lagrangian frameworks through the use of delta functions. The model's performance is thoroughly validated for a bubble plume in a cubic tank in initially quiescent water using experimental data obtained from high-resolution ADV and PIV measurements. The predicted time-averaged velocities and second-order statistics show good agreement with the measurements, including the reproduction of the anisotropic nature of the plume's turbulence. Further, the predicted Eulerian and Lagrangian velocity fields, second-order turbulence statistics and interfacial gas-liquid forces are quantified and discussed as well as the visualization of the time-averaged primary and secondary flow structure in the tank.
