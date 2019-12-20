@@ -1,36 +1,32 @@
 ---
-title: "Evaluation of linear autoregressive models for estimation of energy spectra in gappy turbulent velocity data"
+title: "Energy cascade in a homogeneous swarm of bubbles rising in a vertical channel"
 authors:
 - admin
-- Scott A Socolofsky
-date: "2018-Jan-23T00:00:00Z"
-doi: "https://doi.org/10.1002/lom3.10223"
+- Bruño Fraga
+- WRH Chan
+- MS Dodd
+date: "2018-Aug-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-11-27T00:00:00Z"
+publishDate: "2018-08-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Limnology and Oceanography: Methods, 16(1)*: 1-21"
+publication: "*Proceedings of the Summmer Program, Center for Turbulence Research*"
 publication_short: ""
 
-abstract: This paper deals with the problem of data interpolation in velocity time series measured by acoustic Doppler velocimeters and acoustic Doppler current profilers; the gap‐filled data are often used to determine turbulent kinetic energy (TKE) dissipation using Kolmogorov's inertial subrange scaling. For the latter to estimate dissipation accurately, it is important that the interpolation scheme preserves the attributes, both spectral slope and component magnitudes, of the true energy spectrum. We show that this goal can be achieved using the simple zeroth‐order sample and hold interpolation in situations where isolated data gaps, having durations shorter than the integral time scale of flow, occur. Its success is explained using the framework of stochastic autoregressive (AR) processes, which we also compare to the Langevin equation for the Lagrangian velocity of a turbulent flow field. We also demonstrate that linear interpolation is not appropriate because it can be interpreted as a nonstationary second order AR process, leading to erroneous conclusions for spectral slope and magnitude. When data dropouts occur in clusters, i.e., of durations longer than the integral time scale, we propose to use the first order AR process, of which sample and hold is its limiting case, for interpolation. The effectiveness of our proposal is tested and demonstrated with synthetic time series having a range of spectral slopes, from −7/6 to −8/3, and with experimental data measured in a turbulent channel flow. A comparison is also made with the more sophisticated proper orthogonal decomposition‐based interpolation. The paper ends with a step‐by‐step procedure on using the proposed method in applications.
+abstract: We perform direct numerical simulations (DNS) of millimeter-size air bubbles risingin a vertical water channel. Our objective is to study the energy cascade in this simpleconfiguration, which is a prototype of other more complex flows involving bubbles anddroplets. Both rigid and deformable bubbles are considered using the immersed boundarymethod (IBM) and the volume of fluid (VoF) method. The energy cascade is quantifiedusing the nonlinear interscale energy transfer term appearing in the K ́arm ́an-Howarth-Monin (K-H-M) equation. We observe that the energy cascade is highly anisotropic inscale space with vertical turbulent eddies exhibiting strong inverse cascades. When scale-normalized, the interscale energy transfer term shows a plateau for turbulent eddies whosesize is approximately 1 to 2 bubble diameters. However, the magnitude of that term isonly  50–60%  of  the  required  viscous  dissipation, indicating  that  the  classic  forward-cascade picture by Richardson and Kolmogorov is not satisfied despite the existence of a scale-invariant range.
 
 # Summary. An optional shortened abstract.
-summary: This paper deals with the problem of data interpolation in velocity time series measured by acoustic Doppler velocimeters and acoustic Doppler current profilers; the gap‐filled data are often used to determine turbulent kinetic energy (TKE) dissipation using Kolmogorov's inertial subrange scaling.
+summary: 
 
 tags:
-- Bubble plumes
-- Large-eddy simulation
-- Lagrangian Particle Tracking
-- Two-way coupling
-- Slip velocity
-- Delta functions
 
 featured: false
 
