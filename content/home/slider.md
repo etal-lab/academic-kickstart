@@ -45,8 +45,8 @@ height = "480px"
 
 [[item]]
   title = ""
-  content = ""
-  align = "right"
+  content = "Liquid turbulence in bubbly turbulent flows"
+  align = "left"
 
   overlay_color = "#335161"  # An HTML color value.
   overlay_img = "bubbly-flow.gif"  # Image path relative to your `static/img/` folder.
