@@ -21,11 +21,11 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Spring 2020"
   organization_url = ""
-  title = "Environmental Fluid Mechanics"
+  title = "CEE 6261. Environmental Fluid Mechanics. 3 Credit Hours."
   url = ""
   certificate_url = ""
   date_start = "2020-01-06"
   date_end = "2020-04-21"
-  description = ""
+  description = "Dynamics, mixing, and contaminant transport in surface water bodies, including lakes, rivers, estuaries, and coastal waters. Introduction to numerical models. Prediction of mixing zones."
 
 +++
