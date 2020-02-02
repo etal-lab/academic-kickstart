@@ -75,7 +75,7 @@ user_groups: ["Principal Investigator"]
 
 ---
 
-Dr. Chris Chung-Kei Lai is an assistant professor in the School of Civil and Environmental Engineering at Georgia Institute of Technology. He is also a guest scientist of the [Extreme Fluids Team](https://www.lanl.gov/projects/shocktube/index.html), physics division P-23, at Los Alamos National Laboratory, USA. 
+Dr. Chris Chung-Kei Lai is an assistant professor in the School of Civil and Environmental Engineering at Georgia Institute of Technology ([department profile](https://ce.gatech.edu/people/Faculty/7833/overview)). He is also a guest scientist of the [Extreme Fluids Team](https://www.lanl.gov/projects/shocktube/index.html), physics division P-23, at Los Alamos National Laboratory, USA. 
 
 His expertise is on the design and control of the transport/exchange of contaminants and nutrients in water/air bodies and across the interface between the two. This transport/exchange is heavily governed by the turbulence presence inside the fluid. His group uses and develops **experimental methods** to study the dynamic interplay between turbulent flows and their surroundings and **continuum mechanics** for the development of predictive models of turbulence. 
 
