@@ -22,7 +22,7 @@ height = "480px"
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-#  overlay_color = ""  # An HTML color value.
+  overlay_color = "#5d6d7e"  # An HTML color value.
   overlay_img = "research_focus.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
@@ -39,7 +39,7 @@ height = "480px"
   content = ""
   align = "right"
 
-#  overlay_color = ""  # An HTML color value.
+  overlay_color = "#5d6d7e"  # An HTML color value.
   overlay_img = "Pseudo-volumetric-reconstruction-of-a-variable-density-turbulent-jet.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 
@@ -48,7 +48,7 @@ height = "480px"
   content = ""
   align = "left"
 
-# overlay_color = ""  # An HTML color value.
+  overlay_color = "#5d6d7e"  # An HTML color value.
   overlay_img = "bubbly_flow.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0  # Darken the image. Value in range 0-1.
 +++
