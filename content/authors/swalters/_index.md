@@ -24,7 +24,7 @@ interests:
 
 
 education:
-#  courses:
+ courses:
 
 
 # Social/Academic Networking
