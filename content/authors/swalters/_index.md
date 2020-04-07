@@ -65,5 +65,5 @@ user_groups: ["Undergrad Students"]
 
 ---
 
-Samuel Walters is a first-year mechanical engineering student at the Georgia Institute of Technology. This spring he is helping conduct research into hydrogels that match the refractive properties of water. Outside of class, Samuel is part of Robojackets and the Georgia Tech Swim Club. He enjoys bowling and coming up with new ways to modify a scooter that he’s been working on since his first semester.
+Samuel Walters is a first-year mechanical engineering student at the Georgia Institute of Technology (2019 - 2020). This spring he is helping conduct research into hydrogels that match the refractive properties of water. Outside of class, Samuel is part of Robojackets and the Georgia Tech Swim Club. He enjoys bowling and coming up with new ways to modify a scooter that he’s been working on since his first semester.
 
