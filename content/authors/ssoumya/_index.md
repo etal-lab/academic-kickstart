@@ -21,9 +21,10 @@ organizations:
 bio: 
 
 interests:
+- Fluid Mechanics
 - Environmental Fluid Mechanics
 - Multibody Turbulence
-- Experimental fluid dynamics
+- Experimental Fluid Dynamics
 
 education:
   courses:
