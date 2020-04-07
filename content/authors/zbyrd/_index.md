@@ -67,7 +67,7 @@ user_groups: ["Undergrad Students"]
 
 ---
 
-Zachary Byrd is a third-year undergraduate researcher in the School of Mechanical Engineering at Georgia Institute of Technology (2019 - 2020). 
+Zachary Byrd is a third-year (2019 - 2020) undergraduate researcher in the School of Mechanical Engineering at Georgia Institute of Technology. 
 
 He is dedicated to achieving a better understanding fluid mechanics especially as it pertains to sustainability and preserving the natural world. In addition to the Et. Al Research Group, he is a resident assistant, a full-time student, and a barista at TopTime Coffee Company. 
 
