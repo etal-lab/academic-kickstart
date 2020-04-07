@@ -26,7 +26,7 @@ interests:
 - Teaching/Professorship 
 
 education:
-  courses:
+#  courses:
 
 
 # Social/Academic Networking
