@@ -71,4 +71,6 @@ Muhammad Ahmad Mustafa is a Fulbright Scholar from Pakistan, currently perusing 
 
 Now he is researching under the supervision of Dr. Chris Chung-Kei Lai in Et al. Lab. His research aims to build an optimized controlled facility for generation of homogeneous and isotropic turbulence through Random Actuated Synthetic Jet Arrays while incorporating fractal shaped nozzle for jets. The facility will be used to study various process including flows in porous media mimicked by hydrogels, and turbulent mixing in the environment in general. 
 
+(I am in the picture with my daughter: GO JACKETS)    
+
 
