@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergrad Researcher (2020 Spring - )
+role: Undergrad Researcher (Spring '20 - Present)
 
 # Organizations/Affiliations
 organizations:

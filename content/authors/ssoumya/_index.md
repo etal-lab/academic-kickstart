@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student (2020 Spring - )
+role: PhD student (Spring '20 - Present)
 
 # Organizations/Affiliations
 organizations:
