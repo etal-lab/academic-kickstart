@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: MSc Student, Fulbright Scholar (2020 Spring - )
 
 # Organizations/Affiliations
 organizations:
