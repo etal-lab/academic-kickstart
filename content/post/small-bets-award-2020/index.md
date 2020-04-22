@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-The project _Like a knife through butter- glacial melt by ocean plumes investigated in novel laboratory experiments_ has been awarded the [Small Bets Seed Grant 2020](http://research.gatech.edu/gt-community/funding-opportunities/gt-annual-seed-grant). This is a collaboration with [Dr. Alexander Robel](https://eas.gatech.edu/people/robel-dr-alexander) from the School of Earth and Atmospheric Sciences. We are excited!
+The project _**Like a knife through butter- glacial melt by ocean plumes investigated in novel laboratory experiments**_ has been awarded the [Small Bets Seed Grant 2020](http://research.gatech.edu/gt-community/funding-opportunities/gt-annual-seed-grant). This is a collaboration with [Dr. Alexander Robel](https://eas.gatech.edu/people/robel-dr-alexander) from the School of Earth and Atmospheric Sciences. We are excited!
 
 Here is a synopsis- 
 
