@@ -6,7 +6,7 @@ type: docs
 date: "2020-05-22T00:00:00+01:00"
 draft: false
 menu:
-  example:
+  past_members:
     parent: Leaving Term
     weight: 1
 
