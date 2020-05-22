@@ -53,5 +53,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-Past Members
