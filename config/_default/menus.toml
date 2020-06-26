@@ -7,7 +7,7 @@
   name = " "
   url = "#welcome"
   weight = 10
-  pre = "<i class="fas fa-rocket"></i>"
+  pre = "<i class='fas fa-rocket'>&nbsp;</i>"
 
 
 # Link to a PDF of your resume/CV from the menu.
