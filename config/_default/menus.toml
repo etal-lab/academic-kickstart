@@ -4,44 +4,11 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Welcome"
+  name = " "
   url = "#welcome"
   weight = 10
+  pre = "<i class="fas fa-rocket"></i>"
 
-[[main]]
-  name = "People"
-  url = "#people"
-  weight = 15
-
-[[main]]
-  name = "Research"
-  url = "#projects"
-  weight = 20
-
-[[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 30
-
-[[main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 40
-
-[[main]]
-  name = "Lab News"
-  url = "#news"
-  weight = 50
-
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
-
-[[main]]
-  name = "Join Us"
-  url = "join_us/"
-  weight = 65
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
